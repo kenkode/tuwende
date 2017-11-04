@@ -84,7 +84,7 @@
                             </li>
                             
                            <li>
-                                <a href="#">Check Status</a>
+                                <a href="#">Check Booking Status</a>
                                 
                             </li>
 
@@ -119,6 +119,11 @@
                                     <li><a href="#">Events</a></li>
                             </ul>
                         </li>
+
+                        <li>
+                                <a href="#">Check Booking Status</a>
+                                
+                            </li>
                         
                         <li>
                                 <a href="#">Request Refund</a>

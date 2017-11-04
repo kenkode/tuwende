@@ -1,13 +1,14 @@
 @extends('layouts.app')
 @section('content')
+
+
 <div class="page-title-container">
             <div class="container">
                 <div class="page-title pull-left">
                     <h2 class="entry-title">Contact Us</h2>
                 </div>
                 <ul class="breadcrumbs pull-right">
-                    <li><a href="#">HOME</a></li>
-                    <li><a href="#">PAGES</a></li>
+                    <li><a href="{{URL::to('/')}}">HOME</a></li>
                     <li class="active">Contact Us</li>
                 </ul>
             </div>
@@ -16,6 +17,19 @@
         <section id="content">
             <div class="container">
                 <div id="main">
+                    @if (Session::has('flash_message'))
+
+      <div class="alert alert-success">
+      {{ Session::get('flash_message') }}
+     </div>
+    @endif
+
+     @if (Session::has('delete_message'))
+
+      <div class="alert alert-danger">
+      {{ Session::get('delete_message') }}
+     </div>
+    @endif
                     <div class="travelo-google-map block"></div>
                     <div class="row">
                         <div class="col-sm-4 col-md-3">
