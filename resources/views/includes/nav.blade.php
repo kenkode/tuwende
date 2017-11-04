@@ -58,7 +58,7 @@
 
                 <div class="container">
                     <h1 class="navbar-brand">
-                        <a href="index.html" title="Travelo - home">
+                        <a href="{{URL::to('/')}}" title="Tuwende - home">
                             <!-- <img src="images/logo.png" alt="Tuwende" /> -->
                             <h4><img src="images/favicon.png" alt="Tuwende" />Tuwende</h4>
                         </a>
