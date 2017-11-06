@@ -7,15 +7,33 @@
                         <!-- Slide1 -->
                         <li data-transition="zoomin" data-slotamount="7" data-masterspeed="500">
                             <!-- MAIN IMAGE -->
-                            <img src="images/banner.jpg" alt="">
+                            <img src="images/airport.jpg" alt="">
                         </li>
                         
                         <!-- Slide2 -->
                         <li data-transition="zoomout" data-slotamount="7" data-masterspeed="500">
                             <!-- MAIN IMAGE -->
-                            <img src="images/banner3.jpg" alt="">
+                            <img src="images/airplane.jpg" alt="">
                         </li>
                         
+                        <!-- Slide3 -->
+                        <li data-transition="slidedown" data-slotamount="7" data-masterspeed="500">
+                            <!-- MAIN IMAGE -->
+                            <img src="images/audience.jpg" alt="">
+                        </li>
+
+                        <!-- Slide1 -->
+                        <li data-transition="zoomin" data-slotamount="7" data-masterspeed="500">
+                            <!-- MAIN IMAGE -->
+                            <img src="images/sport.jpg" alt="">
+                        </li>
+
+                        <!-- Slide2 -->
+                        <li data-transition="zoomout" data-slotamount="7" data-masterspeed="500">
+                            <!-- MAIN IMAGE -->
+                            <img src="images/train.jpg" alt="">
+                        </li>
+
                         <!-- Slide3 -->
                         <li data-transition="slidedown" data-slotamount="7" data-masterspeed="500">
                             <!-- MAIN IMAGE -->
@@ -25,19 +43,19 @@
                         <!-- Slide1 -->
                         <li data-transition="zoomin" data-slotamount="7" data-masterspeed="500">
                             <!-- MAIN IMAGE -->
-                            <img src="images/banner1.jpg" alt="">
+                            <img src="images/dinner.jpg" alt="">
                         </li>
 
                         <!-- Slide2 -->
                         <li data-transition="zoomout" data-slotamount="7" data-masterspeed="500">
                             <!-- MAIN IMAGE -->
-                            <img src="images/bus2.jpg" alt="">
+                            <img src="images/breakfast.jpg" alt="">
                         </li>
 
                         <!-- Slide3 -->
                         <li data-transition="slidedown" data-slotamount="7" data-masterspeed="500">
                             <!-- MAIN IMAGE -->
-                            <img src="images/bus.jpg" alt="">
+                            <img src="images/room.jpg" alt="">
                         </li>
                     </ul>
                 </div>
